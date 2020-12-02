@@ -9,3 +9,12 @@ h1 {
     color: black; 
     font-weight: bolder;
 }
+
+img {
+    float: left;
+}
+
+p{
+    float: left;
+    color: chocolate;
+}
